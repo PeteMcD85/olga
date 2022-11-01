@@ -140,6 +140,7 @@ function initializeOLGA(board_container_id, board_id, notes_id, score_box_id, va
 }; // end init()
 
 
+
 // Constructor for an OLGA object
 function OLGA(board_container_id, board_id, notes_id, score_box_id, variation_container_id, variation_box_id, status_id, status_t_id, auto_button_id, alpha_id, numeric_id, cfg) {
   // initiailize OLGA default values (read from olga-data if it is available)
